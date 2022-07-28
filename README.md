@@ -15,7 +15,7 @@
 
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ruesandora0&label=Profile%20views&color=0e75b6&style=flat" alt="Ruesandora0" /> <a href="https://twitter.com/Ruesandora0" target="blank"><img src="https://img.shields.io/twitter/follow/Ruesandora0?logo=twitter&style=for-the-badge" alt="Ruesandora0" /></a> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=frkselek&label=Profile%20views&color=0e75b6&style=flat" alt="frkselek" /> <a href="https://twitter.com/Ruesandora0" target="blank"><img src="https://img.shields.io/twitter/follow/Ruesandora0?logo=twitter&style=for-the-badge" alt="Ruesandora0" /></a> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=frkselek&show_icons=true&theme=highcontrast" align="right" width="450" height="350" >
 
