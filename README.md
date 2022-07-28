@@ -7,7 +7,7 @@
 <font color="pink">Layer-1 Maxi :atom_symbol: </font>
 
 
-## Join Our Community  RuesCommunity  From Türkiye
+## Join Our Community 
 
 <a href="https://twitter.com/Ruesandora0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaferayan" height="30" width="40" /></a>
 <a href="https://medium.com/@ruesandora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zaferayan" height="30" width="40" /></a>
